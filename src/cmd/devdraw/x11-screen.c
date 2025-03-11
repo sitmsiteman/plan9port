@@ -332,13 +332,10 @@ static void
 runxevent(XEvent *xev)
 {
 	int c;
-<<<<<<< HEAD
 	int modp;
-=======
-	char buf[64]; 
+	char buf[64];
 	Rune rbuf[64];
 	Status status;
->>>>>>> Add X Input Method support to devdraw
 	KeySym k;
 	static Mouse m;
 	XButtonEvent *be;
