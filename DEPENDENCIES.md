@@ -22,3 +22,12 @@
 * libXt-devel
 * fontconfig-devel
 * libXext-devel
+
+### Alpine
+* libx11
+* libxext
+* musl
+* fontconfig-dev
+* freetype-dev
+* linux-headers
+* libucontext: need to add '-lucontext' linker flag in bin/9l
