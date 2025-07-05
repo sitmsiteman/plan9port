@@ -24,9 +24,10 @@
 * libXext-devel
 
 ### Alpine
-* libx11
-* libxext
-* musl
+* libx11-dev
+* libxext-dev
+* libxt-dev
+* build-base
 * fontconfig-dev
 * freetype-dev
 * linux-headers
