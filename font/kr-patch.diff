@@ -1,0 +1,222 @@
+diff f2c07807bd7f2b763585fcf0f33154a1b7a84da2 uncommitted
+--- a/lucidasans/boldunicode.10.font
++++ b/lucidasans/boldunicode.10.font
+@@ -155,3 +155,10 @@
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.16.f5c5
+ 0xf101	0xf201	../germgoth/germgoth.18.f101
+ 0x3000	0x30ff	../fixed/10x20.3000
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/boldunicode.13.font
++++ b/lucidasans/boldunicode.13.font
+@@ -119,3 +119,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/boldunicode.6.font
++++ b/lucidasans/boldunicode.6.font
+@@ -137,3 +137,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/boldunicode.7.font
++++ b/lucidasans/boldunicode.7.font
+@@ -138,3 +138,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/boldunicode.8.font
++++ b/lucidasans/boldunicode.8.font
+@@ -140,3 +140,10 @@
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
+ 0xf101	0xf201	../germgoth/germgoth.14.f101
+ 0x3000	0x30ff	../fixed/10x20.3000
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/italicunicode.10.font
++++ b/lucidasans/italicunicode.10.font
+@@ -155,3 +155,10 @@
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.16.f5c5
+ 0xf101	0xf201	../germgoth/germgoth.18.f101
+ 0x3000	0x30ff	../fixed/10x20.3000
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/italicunicode.13.font
++++ b/lucidasans/italicunicode.13.font
+@@ -119,3 +119,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/italicunicode.6.font
++++ b/lucidasans/italicunicode.6.font
+@@ -137,3 +137,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/italicunicode.7.font
++++ b/lucidasans/italicunicode.7.font
+@@ -138,3 +138,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/italicunicode.8.font
++++ b/lucidasans/italicunicode.8.font
+@@ -140,3 +140,10 @@
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
+ 0xf101	0xf201	../germgoth/germgoth.14.f101
+ 0x3000	0x30ff	../fixed/10x20.3000
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/typeunicode.12.font
++++ b/lucidasans/typeunicode.12.font
+@@ -48,3 +48,10 @@
+ 0x9a00 0x9bff ../jis/jis9a00.16
+ 0x9c00 0x9dff ../jis/jis9c00.16
+ 0x9e00 0x9fff ../jis/jis9e00.16
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/typeunicode.16.font
++++ b/lucidasans/typeunicode.16.font
+@@ -47,3 +47,10 @@
+ 0x9a00 0x9bff ../jis/jis9a00.24
+ 0x9c00 0x9dff ../jis/jis9c00.24
+ 0x9e00 0x9fff ../jis/jis9e00.24
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/typeunicode.7.font
++++ b/lucidasans/typeunicode.7.font
+@@ -55,3 +55,10 @@
+ 0x9c04 0x9dfd ../shinonome/k12.9c04
+ 0x9e1a 0x9fa0 ../shinonome/k12.9e1a
+ 0xFFFD 0xFFFD 0x80 lstr.12
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/unicode.10.font
++++ b/lucidasans/unicode.10.font
+@@ -154,3 +154,10 @@
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.16.f5c5
+ 0xf101	0xf201	../germgoth/germgoth.18.f101
+ 0x3000	0x30ff	../fixed/10x20.3000
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/unicode.13.font
++++ b/lucidasans/unicode.13.font
+@@ -56,3 +56,10 @@
+ 0x9c00 0x9dff ../jis/jis9c00.24
+ 0x9e00 0x9fff ../jis/jis9e00.24
+ 0xfb1e	0xfb1e	../lucida/Althebrew.12.0
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/unicode.7.font
++++ b/lucidasans/unicode.7.font
+@@ -138,3 +138,10 @@
+ 0xf6c4	0xf7c4	../dejavubi/dejavubi.12.f6c4
+ 0xf5c5	0xf6c5	../dejavusansbi/dejavusansbi.12.f5c5
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
+--- a/lucidasans/unicode.8.font
++++ b/lucidasans/unicode.8.font
+@@ -140,3 +140,10 @@
+ 0x1700	0x1746	../dejavusansit/dejavusansit.12.1646
+ 0xf101	0xf201	../germgoth/germgoth.14.f101
+ 0x3000	0x30ff	../fixed/10x20.3000
++0x3130	0x318f	../source/hansans.10.3130-318f
++0xac00	0xb3ff	../source/hansans.10.ac00-b3ff
++0xb400	0xbbff	../source/hansans.10.b400-bbff
++0xbc00	0xc3ff	../source/hansans.10.bc00-c3ff
++0xc400	0xcbff	../source/hansans.10.c400-cbff
++0xcc00	0xd3ff	../source/hansans.10.cc00-d3ff
++0xd400	0xd7a3	../source/hansans.10.d400-d7a3
