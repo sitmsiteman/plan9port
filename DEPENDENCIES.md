@@ -32,3 +32,10 @@
 * freetype-dev
 * linux-headers
 * libucontext: need to add '-lucontext' linker flag in bin/9l
+
+### Void
+* libX11-devel
+* libXt-devel
+* libXext-devel
+* freetype-devel
+* fontconfig-devel
